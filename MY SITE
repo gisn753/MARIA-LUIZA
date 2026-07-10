@@ -14,4 +14,58 @@
   <h1>Meu site</h1>h1></h1>
 <nav>
 <ul>
+<li><a href="#">inicio</a></li>
+<li><a href="#">sobre</a></li>
+<li><a href">serviço</a></li>
+<li><a href"> contato</a></li>
+</ul>
+</nav>
+</header>
 
+<section> class="hero">
+<h2>Bem-vindo ao meu site </h2>
+<p.Este é um exemple de página wm HTML e CSS.</P>
+<button>saiba mais,/button>
+</section>
+
+<section class="cards">
+
+<div class="card">
+<h3>Programação</h3>
+<p>criamos disigns modernos e responsivos.</p>
+</div>
+
+<div class="card>
+<h3>Programação</h3>
+<p>Desenvolvemos sistemas  e aplicações web.</P>
+</div>
+
+</section>
+
+<footer>
+<p> 2026 Meu site - Todos os direitos reservados</p>
+</fooder>
+
+</body>
+</html.
+
+<header>
+<h1>Meu Site</h1>
+<nav>
+<ul>
+<li><a href="#">inicio</a></li.
+<li>a href="#">sobre</a><li>
+<li>a href="#">serviços</a></li>
+<li>a href="#">contato</a></li>
+<div cless="card"
+<h3> Marketing</h3>
+<p> ajudamos sua empresa a crescer na internet.</p>
+</div>
+
+</section>
+
+<footer>
+<p> 2026 meu site - -todos od direitos reservados</p>
+</footer>
+<frontier>htnl}
+{
